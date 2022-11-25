@@ -7,6 +7,5 @@
 
 
 void question_1_1();
-void question_1_2();
 
 #endif //_PC3_H

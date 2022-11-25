@@ -10,7 +10,3 @@ using namespace std;
 void question_1_1(){
 
 }
-
-void question_1_2(){
-
-}
