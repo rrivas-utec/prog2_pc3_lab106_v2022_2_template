@@ -1,0 +1,27 @@
+#input
+#output
+    ====================
+    @delioMascara
+    Este es el primer tuit como CEO!!!
+    --------------------
+        :)
+        soy_lo_maximo.png
+    ====================
+    @billPuerta
+    Felicitaciones!!
+    --------------------
+        <3
+    ====================
+    @jetBesucon
+    Espero esta vez si la hagas, jajaja.
+    --------------------
+        :))
+    ====================
+    @larryPagina
+    Incluyo esta encuesta
+    --------------------
+        :))
+        title: Esta vez si la hara?
+            - Si
+            - No
+#endtest
